@@ -1,0 +1,12 @@
+name = "Minim"
+license = "MIT"
+licenselink = "https://github.com/MinnSoe/minim/blob/master/LICENSE"
+description = "Theme for minn.io"
+homepage = "https://github.com/MinnSoe/minim"
+tags = []
+features = []
+min_version = "0.41"
+
+[author]
+  name = "Minn Soe"
+  homepage = "https://minn.io"
